@@ -1,0 +1,76 @@
+[
+    {
+        "1": "what is the full form of LPU ?",
+        "2": "where LPU is located ?",
+        "3": "LPU is in which state ?",
+        "4": "which block in LPU is known as admission block ?",
+        "5": "14 block is also known as ?",
+        "6": "which is the only shop in LPU from where we can buy sweets ?",
+        "7": "unimall is in which block ?",
+        "8": "what is the full form of DSW(13 block) ?",
+        "9": "Is block 38 is connected to 33 ?",
+        "10": "Which of the following course in not available in LPU ?"
+    },
+    {
+        "1": [
+            "love professional university",
+            "lol professional university",
+            "lovely professional university",
+            "none of the above"
+        ],
+        "2": [
+            "moscow,russia",
+            "toronto,canada",
+            "geneva,swizerland",
+            "phagwara,india"
+        ],
+        "3": [
+            "tamil nadu",
+            "andhra pradesh",
+            "punjab",
+            "up"
+        ],
+        "4": [
+            "35",
+            "40",
+            "15",
+            "30"
+        ],
+        "5": [
+            "open audi",
+            "business block",
+            "admission block",
+            "none of the above"
+        ],
+        "6": [
+            "lovely sweets",
+            "dominos",
+            "ccd",
+            "none of the above"
+        ],
+        "7": [
+            "30",
+            "33",
+            "15",
+            "none of the above"
+        ],
+        "8": [
+            "divison of student welfare",
+            "distance student welfare",
+            "dominos student welfare",
+            "none of the above"
+        ],
+        "9": [
+            "yes",
+            "no",
+            "can't say",
+            "none of the above"
+        ],
+        "10": [
+            "b.TECH",
+            "MBA",
+            "bsc",
+            "MBBS"
+        ]
+    }
+]
